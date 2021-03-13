@@ -12,11 +12,7 @@ html{
 }
 .menu{    
     height: 40px;
-<<<<<<< HEAD
-    background: rgb(173, 6, 6);
-=======
     background: green;
->>>>>>> menu
     display: flex;
     align-items: center;
     width: 100%;
