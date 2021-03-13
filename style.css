@@ -12,7 +12,7 @@ html{
 }
 .menu{    
     height: 40px;
-    background: black;
+    background: green;
     display: flex;
     align-items: center;
     width: 100%;
